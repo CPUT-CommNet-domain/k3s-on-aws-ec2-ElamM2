@@ -5,11 +5,6 @@ This repository showcases my skills, projects, and growth as an ICT Communicatio
 
 ---
 
-## 🎬 Portfolio Overview
-
-Check out this mock portfolio inspiration video:
-
-[![Watch the video](https://img.youtube.com/vi/nX22FbyDZa4/0.jpg)](https://youtu.be/nX22FbyDZa4)
 
 ---
 
@@ -63,6 +58,18 @@ Aspiring network engineer eager to apply skills and grow through real-world expe
 - 🔗 GitHub:https://github.com/ElamM2 
 
 ---
+
+## 🎬 Portfolio Overview
+
+Check out this mock portfolio inspiration video:
+
+[![Watch the video](https://img.youtube.com/vi/nX22FbyDZa4/0.jpg)](https://youtu.be/nX22FbyDZa4)
+
+---
+
+## Cv Overview
+
+📄 [View My CV](Elam%20Mtshwane%20CV.pdf)
 
 ## ⭐ Thank You
 
